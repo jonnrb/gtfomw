@@ -1,16 +1,14 @@
-# Temple 
+# GTFOMW 
 
-A Hugo theme focused on content, cleanliness, speed and responsiveness. The main
-goal of this theme is to be simple and fast.
+A Hugo theme focused on ~~content, cleanliness, speed and responsiveness~~
+getting out of my way. ~~The main goal of this theme is to be simple and fast.~~
 
-> This is a fork of [nofancy](https://github.com/gizak/nofancy) with many
-improvements.
+> This is a fork of [temple](https://github.com/aos/temple)
+> which is a fork of [nofancy](https://github.com/gizak/nofancy) with many
+> improvements.
 
 A live version of this theme can be found 
-[on my personal blog](https://aos.github.io).
-
-![Main List](/images/tn.png)
-![Content](/images/screenshot.png)
+[on my personal blog](https://jonnrb.io).
 
 ## Table of Contents
 * [Features](#features)

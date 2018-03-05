@@ -42,7 +42,7 @@
   <!-- Highlightjs CSS -->
   <style type="text/css" media="screen"> 
     {{ if isset .Site.Params "highlight" }}
-      {{ partial "css/docco.min.css" . | safeCSS }}
+      {{ partial "css/hjs-github.css" . | safeCSS }}
     {{ else }}
       {{ partial "css/default.min.css" . | safeCSS }}
     {{ end }}
